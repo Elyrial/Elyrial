@@ -70,4 +70,4 @@ Dept. of Systems Sciences. Thesis: Rust vs. C++ in industrial bare-metal systems
 - Email: alex@elyrial.com
 - Web: [elyrial.com](https://elyrial.com)
 
-Security Engineer · Raritan Deutschland · Zwickau 🇩🇪 → München 🇩🇪
+Security Engineer · Raritan Deutschland · Zwickau 🇩🇪
